@@ -5,9 +5,9 @@
 ### Case de Gerenciamento de Projetos | Digital Transformation | Regulatory Change | Enterprise Systems
 
 ![Project Management](https://img.shields.io/badge/GERENCIAMENTO%20DE%20PROJETOS-1C1C1C?style=for-the-badge)
-![Digital Transformation](https://img.shields.io/badge/DIGITAL%20TRANSFORMATION-8A2BE2?style=for-the-badge)
-![Enterprise Systems](https://img.shields.io/badge/ENTERPRISE%20SYSTEMS-6C4AB6?style=for-the-badge)
-![Status](https://img.shields.io/badge/PROJETO-CONCLU%C3%8DDO-8A2BE2?style=for-the-badge)
+![Digital Transformation](https://img.shields.io/badge/DIGITAL%20TRANSFORMATION-356FA3?style=for-the-badge)
+![Enterprise Systems](https://img.shields.io/badge/ENTERPRISE%20SYSTEMS-4CA6C9?style=for-the-badge)
+![Status](https://img.shields.io/badge/PROJETO-CONCLU%C3%8DDO-356FA3?style=for-the-badge)
 
 **Gerente de Projetos:** João Henrique Gusmão Esteves  
 **Período formal do projeto:** 18/05/2026 a 16/09/2026  
@@ -408,14 +408,14 @@ Ao encerramento foram registrados:
 ## Tecnologias, Métodos e Disciplinas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Azure%20DevOps-1C1C1C?style=flat-square&logo=azuredevops&logoColor=B57EDC" />
-  <img src="https://img.shields.io/badge/Digital%20Transformation-8A2BE2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Enterprise%20Systems-6C4AB6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-1C1C1C?style=flat-square&logo=azuredevops&logoColor=4CA6C9" />
+  <img src="https://img.shields.io/badge/Digital%20Transformation-356FA3?style=flat-square" />
+  <img src="https://img.shields.io/badge/Enterprise%20Systems-4CA6C9?style=flat-square" />
   <img src="https://img.shields.io/badge/Regulatory%20Change-1C1C1C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Agile%20Delivery-8A2BE2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Risk%20Management-6C4AB6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Agile%20Delivery-356FA3?style=flat-square" />
+  <img src="https://img.shields.io/badge/Risk%20Management-4CA6C9?style=flat-square" />
   <img src="https://img.shields.io/badge/Vendor%20Management-1C1C1C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Stakeholder%20Management-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Stakeholder%20Management-356FA3?style=flat-square" />
 </p>
 
 ---
