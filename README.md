@@ -393,6 +393,28 @@ Ao encerramento foram registrados:
 
 ---
 
+## GitHub Project — Reconstrução Executiva
+
+Além do README, este case possui **16 Issues representativas** que funcionam como cards de uma reconstrução executiva e anonimizada da gestão do projeto.
+
+Os itens cobrem governança, sistemas, integrações, riscos, dependências e fornecedor, preservando a lógica de acompanhamento sem expor dados corporativos reais.
+
+<p align="center">
+  <a href="https://github.com/Joao-H-Esteves/case-adequacao-sistemica-identificacao-fiscal/issues?q=is%3Aissue"><img src="https://img.shields.io/badge/VER%20CARDS-356FA3?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="docs/GITHUB-PROJECT-BLUEPRINT.md"><img src="https://img.shields.io/badge/PROJECT%20BLUEPRINT-4CA6C9?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+**Estrutura preparada:**
+- 16 cards históricos concluídos;
+- metadados de macrofrente, sprint, risco, dependência e homologação;
+- blueprint de campos e views para GitHub Projects;
+- inventário em CSV;
+- template para novos cards.
+
+> O GitHub Project deve funcionar como um **digital twin executivo e anonimizado** da governança do projeto.
+
+---
+
 ## Lições Aprendidas
 
 1. **Mudanças regulatórias precisam ser tratadas como portfólio de impactos.** Uma única alteração normativa pode atravessar dezenas de aplicações, integrações e processos.
